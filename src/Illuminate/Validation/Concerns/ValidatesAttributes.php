@@ -1681,7 +1681,7 @@ trait ValidatesAttributes
     }
 
     /**
-     * Validate that an attribute does not exist, or must be empty
+     * Validate that an attribute does not exist, or must be empty.
      *
      * @param  string  $attribute
      * @param  mixed  $value
